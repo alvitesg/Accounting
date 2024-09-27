@@ -12,20 +12,20 @@ This course intends to advance students’ knowledge and effective communication
 3.	Recognize the role of accounting language and rules in business decision-making.
 Students will develop and demonstrate these knowledge and abilities through in-classes exercises, reading assignments, quantitative homework assignments, quizzes, and exams.
 
-Module 1: Accounting & the Business Environment
-Module 2: Recording Business Transaction
-Module 3: The Adjustment Process
-Module 4: Completing the Accounting Cycle 
+# Module 1: Accounting & the Business Environment
+# Module 2: Recording Business Transaction
+# Module 3: The Adjustment Process
+# Module 4: Completing the Accounting Cycle 
 
-Module 5: Financial Statement Analysis
-Module 6: Merchandise Operations & Inventory
-Module 7: Internal Controls & Cash
-Module 8: Receivables
-Module 9: Plant Assets, Natural Resources, and Intangibles
-Module 10: Investments
+# Module 5: Financial Statement Analysis
+# Module 6: Merchandise Operations & Inventory
+# Module 7: Internal Controls & Cash
+# Module 8: Receivables
+# Module 9: Plant Assets, Natural Resources, and Intangibles
+# Module 10: Investments
 
-Module 11: Current Liabilities 
-Module 12: Long-Term Liabilities
-Module 13: Stockholder's Equity
-Module 14: The Statement of Cash Flows
+# Module 11: Current Liabilities 
+# Module 12: Long-Term Liabilities
+# Module 13: Stockholder's Equity
+# Module 14: The Statement of Cash Flows
 
